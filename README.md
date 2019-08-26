@@ -17,4 +17,5 @@ The code can serve as a boilerplate to kickstart any python GUI based applicatio
 ## Issues
 If you find any type of bug there or for any kind of help feel free to message.  
 
-This code is based on the original work at [repo](https://github.com/aniketambore/Database-using-Python)
+## Attribution
+*This code is based on the original work at [repo](https://github.com/aniketambore/Database-using-Python)*
